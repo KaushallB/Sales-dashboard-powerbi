@@ -1,16 +1,16 @@
-# 📊 Power BI Sales Dashboard
+#  Power BI Sales Dashboard
 
 This project contains an **interactive Sales Dashboard built using Microsoft Power BI** to analyze sales performance, customer trends, and product profitability.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Sales Dashboard](ss.png)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The dashboard provides insights into:
 
@@ -30,7 +30,7 @@ It allows users to filter data by:
 
 ---
 
-## 📈 Key Dashboard Metrics
+##  Key Dashboard Metrics
 
 | Metric | Description |
 |------|------|
@@ -41,7 +41,7 @@ It allows users to filter data by:
 
 ---
 
-## 📊 Visualizations Used
+##  Visualizations Used
 
 The dashboard includes the following visualizations:
 
@@ -54,7 +54,7 @@ The dashboard includes the following visualizations:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Microsoft Power BI**
 - Data Modeling
@@ -64,13 +64,13 @@ The dashboard includes the following visualizations:
 ---
 
 
-
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open it using **Microsoft Power BI Desktop**
 3. Explore the interactive dashboard
 
 ---
+
 
 
